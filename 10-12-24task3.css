@@ -63,6 +63,7 @@ body{
    transition: 0.4s ease;
    margin-left: 22%;
    cursor: pointer;
+   text-decoration: none;
 }
 .i1{
     padding-top:80px;
